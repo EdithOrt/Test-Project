@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "company": "Laboratoria",
+        "name": "Edith Ortiz",
+        "area": "Diseño",
+        "footPrint": [
+        {
+            "date": "01/08/2020",
+            "foot": 5.4
+        },
+        {
+            "date": "15/08/2020",
+            "foot": 5.2
+        },
+        {
+            "date": "01/09/2020",
+            "foot": 6
+        },
+        {
+            "date": "15/09/2020",
+            "foot": 3
+        }
+        ]
+    },
+      {
+        "id": 2,
+        "company": "Laboratoria",
+        "name": "Lalo Landa",
+        "area": "Marketing",
+        "footPrint": [
+          {
+            "date": "01/08/2020",
+            "foot": 3.4
+          },
+          {
+            "date": "15/08/2020",
+            "foot": 7.2
+          },
+          {
+            "date": "01/09/2020",
+            "foot": 8
+          },
+          {
+            "date": "15/09/2020",
+            "foot": 19
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "company": "Laboratoria",
+        "name": "Macondo Larios",
+        "area": "Ventas",
+        "footPrint": [
+          {
+            "date": "01/08/2020",
+            "foot": 5.7
+          },
+          {
+            "date": "15/08/2020",
+            "foot": 6.2
+          },
+          {
+            "date": "01/09/2020",
+            "foot": 9.5
+          },
+          {
+            "date": "15/09/2020",
+            "foot": 7
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "company": "Laboratoria",
+        "name": "Ximena Celis",
+        "area": "Comunicacion",
+        "footPrint": [
+          {
+            "date": "01/08/2020",
+            "foot": 5.7
+          },
+          {
+            "date": "15/08/2020",
+            "foot": 6.8
+          },
+          {
+            "date": "01/09/2020",
+            "foot": 9.6
+          },
+          {
+            "date": "15/09/2020",
+            "foot": 4
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "company": "Laboratoria",
+        "name": "Sofia Vergara",
+        "area": "Tecnologia",
+        "footPrint": [
+          {
+            "date": "01/08/2020",
+            "foot": 6
+          },
+          {
+            "date": "15/08/2020",
+            "foot": 10
+          },
+          {
+            "date": "01/09/2020",
+            "foot": 8
+          },
+          {
+            "date": "15/09/2020",
+            "foot": 6
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "company": "Laboratoria",
+        "name": "Leoncia Trejo",
+        "area": "Distribucion",
+        "footPrint": [
+          {
+            "date": "01/08/2020",
+            "foot": 9
+          },
+          {
+            "date": "15/08/2020",
+            "foot": 5
+          },
+          {
+            "date": "01/09/2020",
+            "foot": 5
+          },
+          {
+            "date": "15/09/2020",
+            "foot": 3
+          }
+        ]
+      }
+]
