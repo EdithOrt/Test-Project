@@ -178,6 +178,7 @@
   },
   {
     "name": "Producción",
+     "color": "#FFBC15",
     "data": [
       {
         "name": "Jorge Pérez",
