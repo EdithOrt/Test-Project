@@ -46,6 +46,7 @@
   },
   {
     "name": "Ventas",
+    "color": "#BA1863",
     "data": [
       {
         "name": "Dante Gonz·lez",
@@ -131,9 +132,10 @@
   },
   {
     "name": "Operaciones",
+     "color": "#0ED956",
     "data": [
       {
-        "name": "Brenda Alejo",
+        "name": "Alejo Carpenter",
         "value": 20
       },
       {
@@ -221,6 +223,7 @@
   },
   {
     "name": "Marketing",
+     "color": "#FF5626",
     "data": [
       {
         "name": "Arcelia Ramírez",
@@ -286,6 +289,7 @@
   },
   {
     "name": "Recursos Humanos",
+     "color": "#0BADE0",
     "data": [
       {
         "name": "Nubal Noah Harari",
