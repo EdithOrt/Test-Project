@@ -1,10 +1,10 @@
 [{
     "name": "Sistemas",
+    "color": "#1930DB",
     "data": [
       {
         "name": "Diana Rosas",
-        "value": 18.21,
-        "color": "#1930DB"
+        "value": 18.21
       },
       {
         "name": "Olimpia Coria",
