@@ -3,7 +3,8 @@
     "data": [
       {
         "name": "Diana Rosas",
-        "value": 18.21
+        "value": 18.21,
+        "color": "#1930DB"
       },
       {
         "name": "Olimpia Coria",
